@@ -88,4 +88,4 @@ Pinnacle Sports announced 'Get Feed' operation will be obsolete, so this package
 - [google-gson](https://code.google.com/p/google-gson/)
 
 ## License
-Under the [MIT](https://raw.githubusercontent.com/b4b4r07/dotfiles/master/doc/LICENSE-MIT.txt) license. 
+Under the MIT license. 
