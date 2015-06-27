@@ -47,7 +47,7 @@ Create a PinnacleAPI instance with your username and password.
 PinnacleAPI api = new PinnacleAPI("username", "password");
 ```
 
-You can create an instance with encoded credentials. 
+You can also create an instance with encoded credentials. 
 ```java
 PinnacleAPI api = new PinnacleAPI("encodedCredentials");
 ```
