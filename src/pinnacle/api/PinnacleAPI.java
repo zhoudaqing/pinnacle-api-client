@@ -51,8 +51,7 @@ public class PinnacleAPI {
 	 * @param message
 	 */
 	static void access (String message) {
-		debug.Logger.access(message);
-		// TODO delete
+		//debug.Logger.access(message);
 	}
 	
 	private String credentials;
